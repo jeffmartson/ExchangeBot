@@ -1,12 +1,11 @@
-#ExchangeBot
+ExchangeBot
 "ExchangeBot" is a Telegram bot that allows users to convert cryptocurrencies into US dollars and back. The bot provides current exchange rates for popular cryptocurrencies and processes user requests in a convenient format.
 
-#Cryptoconverter (Crypto Converter)
 This Telegram bot allows users to quickly and easily convert cryptocurrencies to US dollars and back.
 
 The bot provides up-to-date exchange rates and supports a variety of input options.
 
-##Instructions for use:
+#Instructions for use:
 
 Start a chat with a bot on Telegram, find it by name "coinstat_exchange_bot" or click on link.
 
